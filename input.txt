@@ -1,0 +1,7 @@
+5+4=?
+9/3=?
+What a nice day to practice golang
+13*7=?
+4-2=?
+10/0=?
+100/99=?
